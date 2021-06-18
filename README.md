@@ -12,7 +12,7 @@ A very simple 2D platformer game with co-op vs. mode. Two players would compete 
 
 ![raccoon](https://user-images.githubusercontent.com/48864969/122491794-a38d3200-cfb2-11eb-9ea8-12114d843b79.PNG)
 
-Above is an extremely dangerous and intimidating raccoon obstacle that does not only bring pain and struggles to our beta testers, but also *may* sometimes cause them to be stuck in a block or two after collision. 
+Above is an extremely dangerous and intimidating raccoon obstacle that does not only bring pain and struggles to our beta testers, but *may* also sometimes cause them to be stuck in a block or two after collision. 
 
 ![Screenshot (1614)](https://user-images.githubusercontent.com/48864969/122491968-f36bf900-cfb2-11eb-9bc8-e61939432e9f.png)
 
