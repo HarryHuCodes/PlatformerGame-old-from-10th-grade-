@@ -4,6 +4,9 @@ My earliest attempt at making a game after my first few weeks of coding. The gam
 It was a fun and memorable experience nonetheless! I keep the game around to remember how far I have come, and to motivate myself to work harder. 
 
 ![Screenshot (1615)](https://user-images.githubusercontent.com/48864969/122491208-8f950080-cfb1-11eb-8a53-fa13d93e2b6d.png)
+![Screenshot (1618)](https://user-images.githubusercontent.com/48864969/122492727-4b572f80-cfb4-11eb-8dca-4b2d4d0cc831.png)
+![getittt](https://user-images.githubusercontent.com/48864969/122492827-82c5dc00-cfb4-11eb-9b1d-1ecaa5fd9d6d.PNG)
+
 
 A very simple 2D platformer game with co-op vs. mode. Two players would compete to collect orbs which appear randomly (certain distances away from both players). Game was made with pygame, animated sprites and 2 player controls. Both the name and basis of the game was heavily inspired by the popular "Battleblock Theater"  
 
